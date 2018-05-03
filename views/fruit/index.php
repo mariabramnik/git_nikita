@@ -17,6 +17,7 @@ unset($value);
 var_dump($re);
 ?>
 <p> Выносим в GIT</p>
+<span>Изменение в GIT посмотреть просто</span>
 <div>
     <ul class="list-group">
 
