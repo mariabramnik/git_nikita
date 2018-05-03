@@ -16,6 +16,7 @@ foreach ($re as &$value){
 unset($value);
 var_dump($re);
 ?>
+<p> Выносим в GIT</p>
 <div>
     <ul class="list-group">
 
