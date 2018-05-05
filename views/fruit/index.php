@@ -18,6 +18,7 @@ var_dump($re);
 ?>
 <p> Выносим в GIT</p>
 <span>Изменение в GIT посмотреть просто</span>
+<p>MASTER</p>
 <div>
     <ul class="list-group">
 
